@@ -1,0 +1,43 @@
+.nav{
+    grid-area: n;
+    background-color: #ff6643;
+}
+.item
+{
+    text-align: center;
+    font-family: Calibri;
+    font-weight:1000;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.item a
+{
+    color:#1c5c5a;
+    text-decoration:none;
+    font-size:20px;
+}
+.item a.active
+{
+    font-weight: 1000;
+    color: gold;
+}
+.item.active a
+{
+    font-size: 30px;
+}
+.photo
+{
+    color: #374bff;
+}
+.photo img
+{
+    width: 30%;
+    padding: 2px;
+    border-radius: 50px;
+}
+.nam
+{
+    text-align: left;
+    margin-right: 15px;
+    margin-left: 10px;
+}

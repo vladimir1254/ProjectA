@@ -1,0 +1,14 @@
+.formcontrol.error textarea
+{
+    border: solid red 2px;
+}
+.formcontrol.error span
+{
+    color:red
+}
+.loginerror
+{
+    border: solid red 2px;
+    color:red;
+    padding: 5px;
+}

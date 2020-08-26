@@ -1,0 +1,21 @@
+.item img
+{
+    width:100px;
+    padding: 10px;
+    border-radius:50px;
+}
+.item
+{
+    margin:10px;
+    padding: 10px;
+}
+.page
+{
+    padding: 2px;
+    border: 1px solid grey;
+}
+.page.activity
+{
+    font-weight: bold;
+    border-color: #0f0f39;
+}

@@ -1,0 +1,50 @@
+.dialogs
+{
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+.dialogsItem
+
+{
+}
+.dialogsItem .active a
+{
+    color: gold;
+}
+.dialog a
+{
+    color: #374bff;
+    text-decoration: none;
+}
+.dialog img
+{
+    width:50px;
+    border-radius: 50px;
+}
+
+.dialog
+{
+    text-align: center;
+    font-family: Calibri;
+    font-weight:1000;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.messages
+{
+    margin-left: 500px;
+}
+.message img
+{
+    width:50px;
+    border-radius: 50px;
+}
+.message
+{
+
+    text-align: center;
+    font-family: Calibri;
+    font-weight:1000;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}

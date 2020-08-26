@@ -1,0 +1,23 @@
+.content img
+{
+    width:800px;
+
+}
+.description
+{
+    padding: 10px;
+}
+.description img
+{
+    width: 100px;
+}
+.contact
+{
+    padding-left:10px;
+}
+.loginerror
+{
+    border: solid red 2px;
+    color:red;
+    padding: 5px;
+}
